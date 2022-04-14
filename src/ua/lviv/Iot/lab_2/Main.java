@@ -17,5 +17,4 @@ public class Main {
         System.out.println(Minivan1.toString());
         System.out.println(Auto1.toString());
     }
-
 }
